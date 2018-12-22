@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545470695 source:c:\users\lenovo\documents\tencent files\173717610\filerecv\instances\project1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+
+1545208289 source:c:\users\lenovo\documents\tencent files\173717610\filerecv\instances\project1\sa.cpp
+
